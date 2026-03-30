@@ -13,3 +13,7 @@ path = "fundamentals/game.rs"
 [[bin]]
 name = "variable"
 path = "fundamentals/variables.rs"
+
+[[bin]]
+name = "data_types"
+path = "fundamentals/data_types.rs"
